@@ -8,7 +8,7 @@
 
 ### Step 1: One person from your table should put their code for hashketball onto the monitor
 
-The point of this exercise is to help eachother's understanding of the lab, and more importantly hashes. If you feel that your overall solution is not the best, or you had a hard time with some of the tests, then it is in your best interest to volunteer to monitor your code. It will allow the table to help with those issues and, chances are, someone else at your table has the same issues.
+The point of this exercise is to help eachothers understanding of the lab, and more importantly hashes. If you feel that your overall solution is not the best, or you had a hard time with some of the tests, then it is in your best interest to volunteer to monitor your code. It will allow the table to help with those issues and, chances are, someone else at your table has the same issues.
 
 ### Step 2: Your table should take turns walking through each test
 
@@ -16,17 +16,23 @@ When it is your turn to walk through the code you'll have two options:
 
 1. You can talk through the monitored solution for the test you are on
 
-A great way to start talking through the code is to share how you approached this test and how it lead to a solution.
+How do we talk through a solution? Well, start by describing it line by line. What is being sent into the method? How is that being changed or altered on each line? What does a particular line return? Under what circumstances would that line be invoked? What do you expect will be the final return of the method?
 
-2. You can lead while someone codes your solution to the test
+2. You can attempt to solve the test from scratch while someone else codes your solution
 
-If this is the approach you would like to take then see step 5 on how to go about pair programming.
+Try solving the test without refering to your original solution. The code on the monitor should be commented out and pushed out of sight. If this is the approach you would like to take then see step 5 on how to go about pair programming.
 
 Note: Whoever goes first should talk through the `#game_hash` test. After that the next person to go should try pair programming for the `#num_points_scored` test. You can choose to talk through the code when it is your turn to go, but it is encouraged to pair program.
 
 ### Step 3: After each method have a discussion amongst your table 
 
 If you had a different solution or approach to solving this particular test you should share your code.
+
+A nice way to approach this:
+- Identify lines of code that differ from your own
+- Ask the person who solved that code why they choose to solve it that way
+- Share your code and why you solved it that way
+- Ask for feedback
 
 ### Step 4: IMPORTANT: Do not rush!
 

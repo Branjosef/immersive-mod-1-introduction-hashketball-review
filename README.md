@@ -8,7 +8,7 @@
 
 ### Step 1: One person from your table should put their code for hashketball onto the monitor
 
-The point of this exercise is to help eachothers understanding of the lab, and more importantly hashes. If you feel that your overall solution is not the best, or you had a hard time with some of the tests, then it is in your best interest to volunteer to monitor your code. It will allow the table to help with those issues and, chances are, someone else at your table has the same issues.
+The point of this exercise is to help each other better understand the lab, and more importantly hashes. If you feel that your overall solution is not the best, or you had a hard time with some of the tests, then it is in your best interest to volunteer to monitor your code. It will allow the table to help with those issues and, chances are, someone else at your table has the same issues.
 
 ### Step 2: Your table should take turns walking through each test
 

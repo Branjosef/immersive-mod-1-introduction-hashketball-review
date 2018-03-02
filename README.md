@@ -34,7 +34,7 @@ take, then see step 5 on how to go about pair programming.
 
 Note: Whoever goes first should talk through the `#game_hash` test. After that, the next
 person to go should try pair programming `#num_points_scored`. You can choose to talk
-through the code when it is your turn to go, but we encourage you to did your toe into the waters of pair programming.
+through the code when it is your turn to go, but we encourage you to dip your toe into the waters of pair programming.
 
 ### Step 3: After each method, have a discussion amongst your table
 

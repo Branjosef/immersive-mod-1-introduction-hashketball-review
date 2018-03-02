@@ -10,18 +10,18 @@
 
 The point of this exercise is to help each other better understand the lab, and more
 importantly, to better understand hashes. If you feel that your overall solution is not
-the best, or you had a hard time with some of the tests, then it is in your best interest
-to volunteer to share your code with your group. It will allow the table to help with
-those issues and, chances are, someone else at your table ran into similar problems.
+the best, or if you had a hard time with some of the tests, then it is in your best interest
+to volunteer to share your code with the group. This will allow the table to help with
+those issues and, chances are, someone else at your table ran into similar problems and could also benefit from the discussion.
 
 ### Step 2: Your table should take turns walking through each test
 
-When it is your turn to walk through the code you'll have two options:
+When it is your turn to walk through the code, you'll have two options:
 
 1. You can talk through the solution on the monitor for the test you are on:
 
-How do we talk through a solution? Well, start by describing it line by line. What is
-being sent into the method? How is that being changed or altered on each line? What does a
+How do we talk through a solution? Well, start by describing it line by line. What arguments are
+being sent into the method? How are they being changed or altered on each line? What does a
 particular line return? Under what circumstances would that line be invoked? What do you
 expect will be the final return value or output of the method?
 
@@ -34,9 +34,9 @@ take, then see step 5 on how to go about pair programming.
 
 Note: Whoever goes first should talk through the `#game_hash` test. After that, the next
 person to go should try pair programming `#num_points_scored`. You can choose to talk
-through the code when it is your turn to go, but it is encouraged to pair program.
+through the code when it is your turn to go, but we encourage you to did your toe into the waters of pair programming.
 
-### Step 3: After each method have a discussion amongst your table
+### Step 3: After each method, have a discussion amongst your table
 
 If you had a different solution or approach to solving this particular test, you should
 share your code.
@@ -45,7 +45,7 @@ A nice way to approach this:
 
 * Identify lines of code that differ from your own
 * Ask the person why they choose to solve it that way––being a programmer means learning how to defend your choices
-* Share your code and why you solved it that way
+* Share your code and the reasons you solved it that way
 * Ask for feedback!
 
 ### Step 4: IMPORTANT: Do not rush!
@@ -76,7 +76,7 @@ The leader/navigator is responsible for mapping out the route to your final dest
 
 Your focus is on the big picture - how to get to the solution. You will be leading the
 driver by giving instruction as if you were testing the code. For example: "I want this
-method to iterate through each element of a hash and return all of the keys into a new
+method to iterate through each element of a hash and return all of the keys in a new
 array." It is then up the driver to determine what the best approach to solve this would
 be (maybe they use a loop, .map, .each...). If they get stuck then you may point them in
 the right direction to help get them jump started, like: "check out the .keys method."

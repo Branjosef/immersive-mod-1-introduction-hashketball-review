@@ -81,7 +81,7 @@ array." It is then up the driver to determine what the best approach to solve th
 be (maybe they use a loop, .map, .each...). If they get stuck then you may point them in
 the right direction to help get them jump started, like: "check out the .keys method."
 Last, if their solution is a different approach from you might have taken, that is
-alright, do not dismiss it. Follow their train of thought (or ask them for it if you're
+all right, do not dismiss it. Follow their train of thought (or ask them for it if you're
 unclear) and continue to work off that solution instead of refactoring their code (I
 guarantee someone will learn something new with this approach... it might even be you!)
 

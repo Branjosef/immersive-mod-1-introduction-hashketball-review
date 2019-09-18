@@ -20,6 +20,10 @@ those issues and, chances are, someone else at your table ran into similar probl
 
 ### Step 2: Your table should take turns walking through each test
 
+<p align="center">
+  <img src="https://curriculum-content.s3.amazonaws.com/module-1/hashketball-review/Image_133_CodeReviewHANDS.png" width="500" alt="discussion"/>
+</p>
+
 When it is your turn to walk through the code, you'll have two options:
 
 1. You can talk through the solution on the monitor for the test you are on:

@@ -8,6 +8,10 @@
 
 ### Step 1: One person from your table should put their code for hashketball onto the monitor
 
+<p align="center">
+  <img src="https://curriculum-content.s3.amazonaws.com/module-1/hashketball-review/Image_133_CodeReview.png" width="500" alt="discussion"/>
+</p>
+
 The point of this exercise is to help each other better understand the lab, and more
 importantly, to better understand hashes. If you feel that your overall solution is not
 the best, or if you had a hard time with some of the tests, then it is in your best interest

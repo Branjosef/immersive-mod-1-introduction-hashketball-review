@@ -38,6 +38,10 @@ through the code when it is your turn to go, but we encourage you to dip your to
 
 ### Step 3: After each method, have a discussion amongst your table
 
+<p align="center">
+  <img src="https://curriculum-content.s3.amazonaws.com/module-1/hashketball-review/Image_134_DISCUSSION.png" width="500" alt="discussion"/>
+</p>
+
 If you had a different solution or approach to solving this particular test, you should
 share your code.
 

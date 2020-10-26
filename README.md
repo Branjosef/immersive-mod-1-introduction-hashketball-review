@@ -8,9 +8,7 @@
 
 ### Step 1: One person from your table should put their code for hashketball onto the monitor
 
-<p align="center">
-  <img src="https://curriculum-content.s3.amazonaws.com/module-1/hashketball-review/Image_133_CodeReview.png" width="500" alt="discussion"/>
-</p>
+![discussion](https://curriculum-content.s3.amazonaws.com/module-1/hashketball-review/Image_133_CodeReview.png)
 
 The point of this exercise is to help each other better understand the lab, and more
 importantly, to better understand hashes. If you feel that your overall solution is not
@@ -20,9 +18,7 @@ those issues and, chances are, someone else at your table ran into similar probl
 
 ### Step 2: Your table should take turns walking through each test
 
-<p align="center">
-  <img src="https://curriculum-content.s3.amazonaws.com/module-1/hashketball-review/Image_133_CodeReviewHANDS.png" width="500" alt="discussion"/>
-</p>
+![](https://curriculum-content.s3.amazonaws.com/module-1/hashketball-review/Image_133_CodeReviewHANDS.png)
 
 When it is your turn to walk through the code, you'll have two options:
 
@@ -46,9 +42,7 @@ through the code when it is your turn to go, but we encourage you to dip your to
 
 ### Step 3: After each method, have a discussion amongst your table
 
-<p align="center">
-  <img src="https://curriculum-content.s3.amazonaws.com/module-1/hashketball-review/Image_134_DISCUSSION.png" width="500" alt="discussion"/>
-</p>
+![](https://curriculum-content.s3.amazonaws.com/module-1/hashketball-review/Image_134_DISCUSSION.png)
 
 If you had a different solution or approach to solving this particular test, you should
 share your code.
